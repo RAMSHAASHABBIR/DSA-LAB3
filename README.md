@@ -1,1 +1,2 @@
 # DSA-LAB3
+"Diving deep into the realm of DSA – Join me on GitHub as I unravel the magic of infix, postfix, and prefix expressions in C++! 📚 From the intricacies of notation conversion to the art of calculating postfix and prefix expressions, this repository is a treasure trove of algorithmic brilliance. Explore the code, embrace the power of data structures, and embark on a journey through the world of efficient computations. 💻🔍 #DSA #DataStructures #Algorithms #GitHubShowcase #CodingExploration"
